@@ -1,5 +1,5 @@
 ### <h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou Matheus Franzoni</h1>
-<h2> Estou me preparando para entrar no mercado!!<img src="https://www.imagensanimadas.com/data/media/672/emoticon-e-smiley-homem-palito-imagem-animada-0146.gif" width="30px"> </>
+<h3 align="center"> Estou me preparando para entrar no mercado!!<img src="https://www.imagensanimadas.com/data/media/672/emoticon-e-smiley-homem-palito-imagem-animada-0146.gif" width="50px"> </h3>
 
 - 🔭 No momento, não estou trabalhando com programação.
 - 🌱 No momento, estou aprendendo ... javaScript, CSS, NODE, REACT.
