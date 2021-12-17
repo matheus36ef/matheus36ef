@@ -2,7 +2,7 @@
 <h3 align="center"> Estou me preparando para entrar no mercado!!<img src="https://www.imagensanimadas.com/data/media/672/emoticon-e-smiley-homem-palito-imagem-animada-0146.gif" width="50px"> </h3>
 
 - 🔭 No momento, não estou trabalhando com programação.
-- 🌱 No momento, estou aprendendo ... javaScript, CSS, NODE, REACT.
+- 🌱 No momento, estou aprendendo ... javaScript, CSS, NODE, REACT, TypeScript...
 - 📫 Como entrar em contato comigo: @ matheus36ff
 - 👨‍🔧 Estudante de ciência da computação. Estudante de desenvolvimento mobile, e web.
 - 💼 --Ainda sem projetos oficiais completos, e publicados--
